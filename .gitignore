@@ -11,6 +11,7 @@
 !/tmp/cache/views/empty
 /tmp/sessions/*
 !/tmp/sessions/empty
+!views/empty
 /tmp/tests/*
 !/tmp/tests/empty
 
